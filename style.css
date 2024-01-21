@@ -1,0 +1,95 @@
+img{
+    border: 0px solid white;
+    border-radius: 50%;
+}
+body{
+    margin: 0px;
+}
+h4,h2{
+    margin: 0%;
+}
+.h1233{
+    margin: 0px;
+}
+.a1{
+    background-color: rgb(5, 11, 11);
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+.as{
+    color: aliceblue;
+    text-decoration: none;
+
+}
+.a11{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.a2{
+    margin: 0px;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(211, 29, 190, 0.264);
+}
+.a21{
+    padding: 10%;
+    padding-right: 1%;
+    margin: 0px;
+    padding-right: 5%;
+    /* width: 80%; */
+    height: 100%;
+}
+.a22{
+    padding-left: 15%;
+    padding-top: 10%;
+    padding-right: 10%;
+    margin: 0px;
+    /* width: 20%; */
+    height: 100%
+}
+.a3pre{
+    padding-top: 5%;
+    padding-left: 10%;
+    background-color: rgba(128, 133, 133, 0.408);
+    margin: 0%;
+}
+.a3{
+    display: flex;
+    padding: 10%;
+    padding-top: 0%;
+    margin: 0px;
+    height: 100%;
+    padding-bottom: 5%;
+    background-color: rgba(128, 133, 133, 0.408);
+}
+.pic1{
+    border: 3px solid rgba(173, 241, 241, 0.095);
+    border-radius: 10px 0px 10px 0;
+}
+.a4{
+    padding: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: rgba(182, 97, 155, 0.326);
+}
+.a5{
+    padding: 10%;
+    padding-top: 2%;
+    padding-bottom: 3%;
+    background-color: rgba(92, 142, 228, 0.404);
+}
+p{
+    font-size: large;
+}
+.a51{
+    margin-top: 7%;
+}
+.a52{
+    margin-top: 9%;
+}
+.t34{
+    margin-top: 1px;
+    color: white;
+}
